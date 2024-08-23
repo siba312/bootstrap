@@ -118,6 +118,13 @@
     background: white;
     color: #ff3a75;
 }
+
+#loginbtn{
+    background-color: #43ff36;
+    border-radius: 50px;
+    margin-left: 50px;
+    font-family: cursive;
+}
 @media (max-width:850px){
     .home{
         background-position: 50%;
